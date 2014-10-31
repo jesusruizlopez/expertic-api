@@ -1,0 +1,22 @@
+{
+  "name": "expertic-api",
+  "version": "0.1.0",
+  "description": "RESTful API para proveer los servicios de la plataforma ExperTIC",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "main": "server.js",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/jesusruizlopez/expertic-api.git"
+  },
+  "author": "Pretzel",
+  "license": "MIT",
+  "devDependencies": {
+    "express": "*",
+    "body-parser": "*",
+    "method-override": "*",
+    "mongodb": "*",
+    "mongoose": "*"
+  }
+}
