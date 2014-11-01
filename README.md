@@ -15,7 +15,7 @@ Los siguiente servicios están disponibles para esta versión demo. Se hace uso 
 
 ## Demo
 
-##### [http://expertic-experimentos.rhcloud.com/](https://bit.ly/1tpWwXE/ "Demo RESTful API - ExperTIC") 
+##### [http://expertic-experimentos.rhcloud.com/](https://bit.ly/1tpWwXE "Demo RESTful API - ExperTIC") 
 
 ## Documentación
 
