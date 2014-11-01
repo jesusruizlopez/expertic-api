@@ -15,7 +15,7 @@ Los siguiente servicios están disponibles para esta versión demo. Se hace uso 
 
 ## Demo
 
-##### [http://expertic-experimentos.rhcloud.com/](http://expertic-experimentos.rhcloud.com/ "Demo RESTful API - ExperTIC") 
+##### [http://expertic-experimentos.rhcloud.com/](https://bit.ly/1tpWwXE/ "Demo RESTful API - ExperTIC") 
 
 ## Documentación
 
@@ -88,7 +88,7 @@ Da de alta un curso en la plataforma ExperTIC.
 	category: "Desarrollo y Sistemas",
 	hours: 120,
 	format: "Presencial",
-	_id: "54540556b877baaf45b00b85"
+	_id: "54542f4d37df170000df0fab"
 }
 </pre>
 
@@ -135,12 +135,12 @@ Obtiene todos los cursos dados de alta en la plataforma ExperTIC.
 		category: "Desarrollo y Sistemas",
 		hours: 120,
 		format: "Presencial",
-		_id: "54540556b877baaf45b00b85"
+		_id: "54542f4d37df170000df0fab"
 	}
 ]
 </pre>
 
-#### [GET] /courses/54540556b877baaf45b00b85
+#### [GET] /courses/54542f4d37df170000df0fab
 
 Obtiene un curso en específico usando el folio interno (autogenerado) como referencia.
 
@@ -182,6 +182,6 @@ Obtiene un curso en específico usando el folio interno (autogenerado) como refe
 	category: "Desarrollo y Sistemas",
 	hours: 120,
 	format: "Presencial",
-	_id: "54540556b877baaf45b00b85"
+	_id: "54542f4d37df170000df0fab"
 }
 </pre>
